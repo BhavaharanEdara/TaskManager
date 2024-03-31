@@ -12,10 +12,8 @@ To clone the app, follow these steps:
 3. Run the following command to clone the app:
 
     ```
-    git clone <repository_url>
+    git clone https://github.com/BhavaharanEdara/TaskManager.git
     ```
-
-    Replace `<repository_url>` with the actual URL of the GitHub repository.
 
 ## Setting Up the Development Environment
 

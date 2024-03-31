@@ -44,7 +44,7 @@ Once you have cloned the app, follow these steps to set up the development envir
     ```
     cd TaskManager/backend
     ```
-8. Install all dependencies in frontend
+8. Install all dependencies in backend
 
     ```
     npm i

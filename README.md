@@ -1,5 +1,5 @@
 ﻿# TaskManager
-# Welcome to My App!
+# Welcome to Task Manager Application!
 
 This is a simple guide to help you get started with my app.
 
